@@ -10,7 +10,7 @@ Domain: Livelihoods & Inclusion
 University: ITM University, Gwalior
 Challenge Statement: Making E-Commerce Accessible for Rural Artisans Using AI
 
-🚨 Problem Statement
+# 🚨 Problem Statement
 Millions of rural artisans in India create high-quality handmade products but struggle to earn a fair income due to:
 
 Dependence on middlemen (80–90% profit loss)
@@ -19,7 +19,7 @@ Inability to create professional product listings
 Poor product images and no pricing guidance
 As a result, over 200+ million artisans remain digitally excluded, earning below the poverty line despite high skill levels.
 
-💡 Solution Overview
+# 💡 Solution Overview
 CraftConnect removes these barriers through voice-first AI automation:
 
 Artisans speak in their own language
@@ -66,7 +66,7 @@ Zero-commission vision (artisans keep 80–90% income)
 End-to-end AI automation from voice + image
 Focus on livelihoods, inclusion, and craft preservation
 
-🧑‍💻 Tech Stack
+# 🧑‍💻 Tech Stack
 
 | **Layer**         | **Technology / Tool**                | **Purpose**                                                        |
 | ----------------- | ------------------------------------ | ------------------------------------------------------------------ |
@@ -82,7 +82,7 @@ Focus on livelihoods, inclusion, and craft preservation
 | Package Manager   | npm                                  | Handles project dependencies and scripts                           |
 
 
-🗂️ Project Structure
+# 🗂️ Project Structure
 
 ├── src
 │   ├── components
@@ -120,7 +120,7 @@ npm install
 # 4. Start the development server
 npm run dev
 
-🎥 Demo
+# 🎥 Demo
 
 🔗 Live Demo / Demo Video Link:
 Demo Video Link - https://drive.google.com/drive/folders/1H1z9gDqSJZJubeK58cnoORpC4Bow0Fua?usp=sharing
