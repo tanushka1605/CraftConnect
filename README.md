@@ -1,4 +1,4 @@
-🧵 CraftConnect – Voice-First AI Marketplace for Rural Artisans
+##🧵 CraftConnect – Voice-First AI Marketplace for Rural Artisans
 
 CraftConnect is a voice-first, AI-powered e-commerce platform built to make online selling accessible for rural artisans.
 It enables artisans to upload products using voice + a single photo, while AI automatically generates professional listings, enhanced images, and fair pricing — eliminating middlemen and increasing artisan income.
